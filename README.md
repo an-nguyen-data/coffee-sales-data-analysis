@@ -1,2 +1,6 @@
-# coffee-sales-data-analysis
-I developed a data analysis project in Excel, creating an interactive dashboard to analyze coffee sales data. The project involved several stages, including data cleaning, data preparation, and data visualization to identify sales trends and customer purchasing patterns.
+# Coffee-shop-Data-Analysis(Interactive Dashboard creation using MS Excel)
+## Project Objective
+The Coffee shop wants to analyze coffee sales data and build an interactive Excel dashboard to identify sales trends, top products, and customer purchasing patterns.
+
+## Dataset used
+- <a href="https://github.com/an-nguyen-data/coffee-sales-data-analysis/blob/main/coffeeOrdersDataProject.xlsx">Dataset<a/>
