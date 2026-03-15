@@ -17,3 +17,5 @@ The Coffee shop wants to analyze coffee sales data and build an interactive Exce
 -	What percentage of total sales comes from each coffee type?
 
 -	Dashboard interaction <a href="https://github.com/an-nguyen-data/coffee-sales-data-analysis/blob/main/Dashboard_coffeesales.png">View Dashboard</a>
+
+## Dashboard
