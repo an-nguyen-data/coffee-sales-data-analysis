@@ -20,3 +20,13 @@ The Coffee shop wants to analyze coffee sales data and build an interactive Exce
 
 ## Dashboard
 ![Coffee Sales Dashboard](Dashboard_coffeesales.png)
+
+## Project Insight
+-	The United States contributes the highest total sales compared to other countries.
+-	Excelsa coffee generates the highest revenue, followed by Liberica and Arabica.
+-	The month with the highest sales shows strong customer demand during that period.
+-	Customers tend to purchase medium and light roast coffee more frequently.
+-	Medium size coffee products account for a large portion of total orders.
+
+## Final conclusion:
+To improve coffee sales, the business should focus on promoting high-performing coffee types such as Excelsa and Liberica, which generate the highest revenue. Since the United States contributes the largest share of sales, marketing efforts should prioritize this market. Additionally, offering promotions based on popular roast types and coffee sizes can help attract more customers and increase overall sales.
