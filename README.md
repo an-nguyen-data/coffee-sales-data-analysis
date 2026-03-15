@@ -19,3 +19,4 @@ The Coffee shop wants to analyze coffee sales data and build an interactive Exce
 -	Dashboard interaction <a href="https://github.com/an-nguyen-data/coffee-sales-data-analysis/blob/main/Dashboard_coffeesales.png">View Dashboard</a>
 
 ## Dashboard
+![Coffee Sales Dashboard](Dashboard_coffeesales.png)
